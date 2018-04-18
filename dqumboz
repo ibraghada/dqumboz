@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>dqumboz</title>
+</head>
+<body>
+<style>
+.doger-blue-text {
+color: #2998E4;
+}
+.red-text {
+color: #ff0000;
+}
+h2 {
+font-family: monospace;
+}
+</style>
+<h2>Dema Abo Alqumboz</h2>
+<h4 class="red-text">Why do I want to enroll in this course?</h4>
+<p> I want to enroll in this course because, I am interested in programming, </br>
+and I have begun a self-learning in programming and websites developing field. </br>
+I want to improve my knowledge and work remotely</p>
+<h3 class="doger-blue-text">My experiences</h3>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JQuery</li>
+<li>Bootstap</li>
+<li>JavaScript</li>
+</ul>
+<h3 class="doger-blue-text">My hobbies</h3>
+<ul>
+<li>Embroidery</li>
+<li>Hairdressing</li>
+</ul>
+<p> <strong>Embroidery:</strong> I used to see my mother working in embroidery, and I loved it and started to  
+ </br>learn it until I have mastered it.</p>
+<p> <strong>hairdressing:</strong> In the networking sites, I saw pictures of the hairdressing, so I am trying to 
+</br>imitate it for my sisters and become adept at it.</p>
+<p>Here's <a href='https://github.com/dqumboz'>Github page</a>my site link on Github</p>
+<p>Here's <a href='https://www.freecodecamp.org/dqumboz'>freeCodeCamp page</a>my site link on freeCodeCamp</p>
+<p>Here's <a href='https://www.codewars.com/users/dqumboz'>codewars page</a>my site link on codewars</p>
+</body>
+</html>
